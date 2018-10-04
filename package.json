@@ -1,0 +1,27 @@
+{
+  "name": "douan-movie-spider",
+  "version": "1.0.0",
+  "description": "豆瓣电影",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liandmin/douan-movie-spider.git"
+  },
+  "keywords": [
+    "movie",
+    "spider"
+  ],
+  "author": "liandmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liandmin/douan-movie-spider/issues"
+  },
+  "homepage": "https://github.com/liandmin/douan-movie-spider#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
