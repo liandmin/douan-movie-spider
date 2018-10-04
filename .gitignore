@@ -12,7 +12,7 @@ _remote_base
 view/tms
 
 # Editor directories and files
-.idea
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
